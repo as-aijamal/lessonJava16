@@ -23,7 +23,7 @@ public class Main {
 //        String a=" wgqwgg";
 //        System.out.println(word.concat(a));
 //        System.out.println(word.startsWith("J"));
-        System.out.println(word.endsWith("d"));
+//        System.out.println(word.endsWith("d"));
 
 
     }
